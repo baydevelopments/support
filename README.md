@@ -2,7 +2,7 @@
 
 ## Support
 
-For support using Fitbit Baydevelopments apps, please email: 
+If using a Samsung Galaxy phone, please email <a href="mailto:allyann.baydevelopments@gmail.com">Baydevelopments</a> with the application name in the subject field. For other phone types, pleaes email: 
 
   *  <a href="mailto:allyann.baydevelopments+elegant_clock@gmail.com">Elegant Clock Support</a>
 
