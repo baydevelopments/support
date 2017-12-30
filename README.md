@@ -2,7 +2,7 @@
 
 ## Support
 
-If using a Samsung Galaxy phone, please email <a href="mailto:allyann.baydevelopments@gmail.com">Baydevelopments</a> with the application name in the subject field. For other phone types, pleaes email: 
+If using a Samsung Galaxy phone, please email <a href="mailto:allyann.baydevelopments@gmail.com">Baydevelopments</a> with the application name in the subject field. For other phone types, please email: 
 
   *  <a href="mailto:allyann.baydevelopments+elegant_clock@gmail.com">Elegant Clock Support</a>
 
