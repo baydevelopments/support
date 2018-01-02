@@ -16,7 +16,7 @@ If using a Samsung Galaxy phone, please email <a href="mailto:allyann.baydevelop
 2. <a href="#FAQ_2">When I change my settings, it doesn't always work</a>
 3. <a href="#FAQ_3">I would like to display my clock is in 24h time</a>
 
-### <h2 id="FAQ_1">Why won't my Fitbit device sync?<h2>
+### <h2 id="FAQ_1">Why won't my Fitbit device sync?</h2>
 
 Please refer to Fibit's Help article for suggestions on getting your Fitbit Ionic to sync: <a href="http://help.fitbit.com/articles/en_US/Help_article/1866/?l=en_US&c=Topics%3ASyncing&fs=Search&pn=1">Why won't my Fitbit device sync?</a>
 
