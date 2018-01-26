@@ -9,6 +9,11 @@ If using a Samsung Galaxy phone, please email <a href="mailto:allyann.baydevelop
   *  <a href="mailto:allyann.baydevelopments+diamond_clock@gmail.com">Diamond Clock Support</a>
 
   *  <a href="mailto:allyann.baydevelopments+hr_pacing@gmail.com">HR Pacing Support</a>
+  
+  *  <a href="mailto:allyann.baydevelopments+rhr_report@gmail.com">RHR Report Support</a>
+  
+  *  <a href="mailto:allyann.baydevelopments+gagenda@gmail.com">GAgenda Support</a>
+
 
 ## FAQ
 
