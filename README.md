@@ -40,7 +40,8 @@ You can change your clock display preferences in your account on the the <a href
 
 <ol>
  <li>Log in to Google Calendar.</li>
- <li>Click on the settings cog.</li>
+ <li>Click on the settings cog.
+ <img src="./settingsCog.png" alt="settingsCog"/></li>
  <li>In the Setting page, your calendars should be listed on the left hand side.</li>
  <li>Click on the first calendar and scroll down to section that says integrate calendar.</li>
  <li>If the calendar ID is the same as your e-mail address, this is your primary calendar.</li>
