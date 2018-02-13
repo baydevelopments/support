@@ -9,6 +9,8 @@ If using a Samsung Galaxy/Android phone, please email <a href="mailto:allyann.ba
   *  <a href="mailto:allyann.baydevelopments+elegant_clock@gmail.com">Elegant Clock Support</a>
 
   *  <a href="mailto:allyann.baydevelopments+diamond_clock@gmail.com">Diamond Clock Support</a>
+  
+  *  <a href="mailto:allyann.baydevelopments+bubble_clock@gmail.com">Bubble Clock Support</a>
 
   *  <a href="mailto:allyann.baydevelopments+hr_pacing@gmail.com">HR Pacing Support</a>
   
