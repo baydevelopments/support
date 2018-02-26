@@ -32,7 +32,7 @@ Please refer to Fibit's Help article for suggestions on getting your Fitbit Ioni
 
 ### <h3 id="FAQ_2">When I change my settings, it doesn't always work</h3>
 
-Currently, the bluetooth connection from your phone to the Fitbit is not 100% stable. Therefore the watch does not always get the settings changed on your phone. Fitbit are aware of the issue and are currently working on a fix. Unfortunately I cannot do anything about this.
+Currently, the bluetooth connection from your phone to the Fitbit is not 100% stable. Therefore the watch does not always get the settings changed on your phone. Fitbit are aware of the issue and are currently working on a fix. Unfortunately I cannot do anything about this. UPDATE: Fitbit have released a firmware update<a href="https://help.fitbit.com/articles/en_US/Help_article/2302"> Fitbit OS 1.2 (Feb 2018)</a> that solves many of the communications issues.
 
 ### <h3 id="FAQ_3">I would like to display my clock is in 24h time</h3>
 
