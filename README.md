@@ -16,6 +16,8 @@ If using a Samsung Galaxy/Android phone, please email <a href="mailto:allyann.ba
   
   *  <a href="mailto:allyann.baydevelopments+rhr_report@gmail.com">RHR Report Support</a>
   
+  #### RHR Report - KNOWN ISSUE: Please note. You will need seven (7) days worth of data in order for this to work. I am currently working on a fix for this issue. ####
+  
   *  <a href="mailto:allyann.baydevelopments+gagenda@gmail.com">GAgenda Support</a>
 
 
